@@ -76,7 +76,7 @@ Alternatively, if you have another project idea regarding cryptocurrency, make m
 - [Video Overview of Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-overview)
 
 ### Fitness Gamification
-Your goal is to create an application that encourages uses both in the short term and long term to exercise more using 
+Your goal is to create an application that encourages users both in the short term and long term to exercise more using 
 achievements (eg. 'badges', 'medals', 'PSN trophies'). Using the Google Fit API (which can hook into multiple sources),
 you will award users on activity such as "longest distance travelled in a week", daily goals, etc. How you think this
 is achieved is up to your team.
