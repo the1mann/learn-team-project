@@ -57,7 +57,7 @@ Your goal is to make an application to parse and display this information to use
 its address and when the next vehicle is arriving.
 
 **Resources:**
-[API Information][http://data.sa.gov.au/data/dataset/adelaide-metro-real-time-passenger-information
+- [API Information][http://data.sa.gov.au/data/dataset/adelaide-metro-real-time-passenger-information
 
 ### Cryptocurrency
 Your goal is to create your own cryptocurrency, and a website to explain how the currency works and how to 'mine' some.
@@ -68,8 +68,8 @@ At the end of the project anyone should be able to complete a transaction.
 Alternatively, if you have another project idea regarding cryptocurrency, make me a proposal.
 
 **Resources:**
-[Bitcoin Basics](https://bitcoin.org/en/how-it-works)
-[Video Overview of Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-overview)
+- [Bitcoin Basics](https://bitcoin.org/en/how-it-works)
+- [Video Overview of Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-overview)
 
 ### Fitness Gamification
 Your goal is to create an application that encourages uses both in the short term and long term to exercise more using 
@@ -78,8 +78,8 @@ you will award users on activity such as "longest distance travelled in a week",
 is achieved is up to your team.
 
 **Resources:**
-[Google Fit SDK](https://developers.google.com/fit/)
-[Gamification Tips & Types](https://badgeville.com/wiki/Game_Design)
+- [Google Fit SDK](https://developers.google.com/fit/)
+- [Gamification Tips & Types](https://badgeville.com/wiki/Game_Design)
 
 ### Lunchbox
 Your goal is to build an app that will recommend only one restaurant nearby that your might want to go to, as soon as you
@@ -88,17 +88,17 @@ Ideally, the app will show dinner option if it is dinnertime, a lunch place if i
 You may wish to have user accounts, or not.
 
 **Resources:**
-[Foursquare API](https://developer.foursquare.com/start)
-[Zomato API](https://developers.zomato.com/api)
-[Google Places API](https://developers.google.com/places/)
+- [Foursquare API](https://developer.foursquare.com/start)
+- [Zomato API](https://developers.zomato.com/api)
+- [Google Places API](https://developers.google.com/places/)
 
 ### Google Cardboard
 Your goal is to create an application or game that uses Google Cardboard and a number of VR specific gestures.
 Kits will be provided if you choose this option.
 
 **Resources:**
-[Google Cardboard SDK](https://developers.google.com/cardboard/overview)
-[Designing for Google Cardboard](http://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html)
+- [Google Cardboard SDK](https://developers.google.com/cardboard/overview)
+- [Designing for Google Cardboard](http://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html)
 
 ### ..Or Whatever?
 All the above don't quite fit? Got something better? Make me a proposal!
