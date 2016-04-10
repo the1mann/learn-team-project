@@ -14,30 +14,30 @@ Once your team is approved you'll need decide on a project and what you aim to d
 willing to commit enough time to deliver them!
 
 ## Plan Your Project
-### 1. Organise available time with the team
+#### 1. Organise available time with the team
 Make sure that you all first know how much time everyone is willing to put in. This will affect what you can deliver.
 
-### 2. Create a Slack channel for your team
+#### 2. Create a Slack channel for your team
 Make sure you set up a default method of communication as soon as you can. If you want to build anything to be proud
 of **you need to communicate well**.
 
-### 3. Discuss team strengths & weaknesses
+#### 3. Discuss team strengths & weaknesses
 Get to know your team, what they're good at and what they suck at.
 
-### 4. Define Project Goals / Deliverables
+#### 4. Define Project Goals / Deliverables
 Now the fun part. Pick a project that you'd like to do. Once you've done that then work on the specific tasks that
 you could deliver/complete. *Then pick which ones your team will have enough time to do*.
 
-### 5. Designate a Scrum Master
+#### 5. Designate a Scrum Master
 This person will be responsible for facilitating planning, and reminding your team about progress and asking what
 everyone on the team has accomplished. Pick wisely.
 
-### 6. Write out backlog
+#### 6. Write out backlog
 Take those tasks you will deliver and then break them down to user stories/features. Each one should cover a particular 
 action a user may do. You should have 3 - 10 of these. Sort these then in priority. Most important items should be done
 first.
 
-### 7. Plan your first sprint
+#### 7. Plan your first sprint
 Add what tasks you'd like to see done in the first sprint (two weeks). Then break down theses tasks into smaller tasks.
 Now you can all start working!
 
@@ -57,7 +57,7 @@ Your goal is to make an application to parse and display this information to use
 its address and when the next vehicle is arriving.
 
 **Resources:**
-- [API Information][http://data.sa.gov.au/data/dataset/adelaide-metro-real-time-passenger-information
+- [API Information](http://data.sa.gov.au/data/dataset/adelaide-metro-real-time-passenger-information)
 
 ### Cryptocurrency
 Your goal is to create your own cryptocurrency, and a website to explain how the currency works and how to 'mine' some.
