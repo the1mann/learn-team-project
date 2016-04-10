@@ -41,6 +41,10 @@ first.
 Add what tasks you'd like to see done in the first sprint (two weeks). Then break down theses tasks into smaller tasks.
 Now you can all start working!
 
+#### 8. Create your shared repository
+Create a repo on Github, and commit to it regularly. My advice is to work on each task in different branches, and merge them
+only once they are complete and reviewed by someone else in the team.
+
 
 ## Due Date
 The end date of this project is the *27th June at 1pm*. Each team will have *20 minutes* to present (yes we will go overtime) 
